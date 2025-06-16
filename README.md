@@ -2,7 +2,7 @@
 
 🎓 Estudante de Engenharia da Computação  
 💻 Apaixonado por desenvolvimento de software, automação e inteligência artificial  
-📚 Atualmente estudando: Python
+📚 Atualmente estudando: Python  
 🔍 Em busca de desafios e oportunidades para crescer na área de tecnologia
 
 ## 🚀 Tecnologias que estou aprendendo
