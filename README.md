@@ -20,6 +20,6 @@
 - Email: caiosalesdias@gmail.com
 - LinkedIn: https://www.linkedin.com/in/caio-dias2004/
 
-## 🐍 Snake com meus commits
+## 
 
 <img src="https://raw.githubusercontent.com/CdBr4zil/CdBr4zil/output/snake.svg" alt="Snake animation" />
