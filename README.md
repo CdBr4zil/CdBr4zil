@@ -6,7 +6,7 @@
 
 ---
 
-## 🇺🇸 Hello, my name is Caio, 
+## 🇺🇸 Hello, my name is Caio
 🧑‍💻 I'm 20 years old   
 🎓 Computer Engineering student at CUFSA  
 💻 Enthusiast of software development, automation, and artificial intelligence  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🚀 Tecnologias que utilizo / Technologies I use
 
 <img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -26,22 +26,25 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estatísticas / Stats
+
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CdBr4zil&show_icons=true&theme=radical)
 
 ---
 
-## 📊 Linguagens mais usadas
+## 📊 Linguagens mais usadas / Most used languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CdBr4zil&layout=compact&theme=radical)
 
 ---
 
-## 📫 Contato
+## 📫 Contato / Contact
+
 - Email: caiosalesdias@gmail.com
 - LinkedIn: [linkedin.com/in/caio-dias2004](https://www.linkedin.com/in/caio-dias2004/)
 
 ---
 
-## 🐍 
+## 🐍 Atividade com Cobrinha / Snake GitHub Activity
 
 <img src="https://raw.githubusercontent.com/CdBr4zil/CdBr4zil/output/snake.svg" alt="Snake animation" />
