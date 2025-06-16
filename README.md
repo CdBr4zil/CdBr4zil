@@ -14,7 +14,7 @@
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CdBr4zil&show_icons=true&theme=radical)
 
 ## 📫 Contato
-- Email: seuemail@gmail.com
-- LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
+- Email: caiosalesdias@gmail.com
+- LinkedIn: https://www.linkedin.com/in/caio-dias2004/
 
 <!-- opcional: badge de visitas, github streak, etc -->
