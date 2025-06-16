@@ -34,6 +34,6 @@
 
 ---
 
-## 🐍 Snake dos meus commits
+## 🐍 
 
 <img src="https://raw.githubusercontent.com/CdBr4zil/CdBr4zil/output/snake.svg" alt="Snake animation" />
