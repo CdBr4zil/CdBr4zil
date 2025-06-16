@@ -13,8 +13,13 @@
 ## 📈 GitHub Stats
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CdBr4zil&show_icons=true&theme=radical)
 
+## 📈 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CdBr4zil&layout=compact&theme=radical)
+
 ## 📫 Contato
 - Email: caiosalesdias@gmail.com
 - LinkedIn: https://www.linkedin.com/in/caio-dias2004/
 
-<!-- opcional: badge de visitas, github streak, etc -->
+## 🐍 Snake com meus commits
+
+![snake gif](https://github.com/caiodias2004/caiodias2004/blob/output/github-contribution-grid-snake.svg)
