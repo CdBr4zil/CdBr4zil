@@ -22,4 +22,4 @@
 
 ## 🐍 Snake com meus commits
 
-![snake gif](https://github.com/caiodias2004/caiodias2004/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
