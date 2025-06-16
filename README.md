@@ -1,5 +1,5 @@
 ## 🇧🇷 Olá, meu nome é Caio
-🧑‍💻 Tenho 20 anos
+🧑‍💻 Tenho 20 anos   
 🎓 Estudante de Engenharia da Computação pela CUFSA  
 💻 Admirador de desenvolvimento de software, automação e inteligência artificial  
 🔍 Em busca de desafios e oportunidades para crescer na área de tecnologia  
@@ -7,7 +7,7 @@
 ---
 
 ## 🇺🇸 Hello, my name is Caio, 
-🧑‍💻 I'm 20 years old
+🧑‍💻 I'm 20 years old   
 🎓 Computer Engineering student at CUFSA  
 💻 Enthusiast of software development, automation, and artificial intelligence  
 🔍 Always looking for challenges and opportunities to grow in the tech field
