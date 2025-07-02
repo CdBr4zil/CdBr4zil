@@ -33,7 +33,7 @@
 
 ## 📊 Linguagens mais usadas / Most used languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CdBr4zil&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CdBr4zil&layout=compact&theme=radical&cache_seconds=10)
 
 ---
 
