@@ -42,8 +42,4 @@
 - Email: caiosalesdias@gmail.com
 - LinkedIn: [linkedin.com/in/caio-dias2004](https://www.linkedin.com/in/caio-dias2004/)
 
----
 
-## 🐍 Atividade com Cobrinha / Snake GitHub Activity
-
-<img src="https://raw.githubusercontent.com/CdBr4zil/CdBr4zil/output/snake.svg" alt="Snake animation" />
