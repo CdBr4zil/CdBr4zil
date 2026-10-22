@@ -36,6 +36,11 @@ Site fictício de viagens com layout mobile first, páginas responsivas e otimiz
 Sample travel website with a mobile-first layout, responsive pages, and on-page SEO.  
 **Stack:** HTML5, CSS3. · [Ver site / Live demo](https://cdbr4zil.github.io/jornada-viagens/)
 
+## 🏆 Conquista | Achievement
+
+Melhor projeto no 1º Hackathon do Centro Universitário Fundação Santo André (2026).  
+Best project at the 1st Hackathon of Centro Universitário Fundação Santo André (2026).
+
 ## 📊 Atividade no GitHub | GitHub activity
 
 ![Estatísticas do GitHub de Caio / Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CdBr4zil&show_icons=true&theme=radical)
